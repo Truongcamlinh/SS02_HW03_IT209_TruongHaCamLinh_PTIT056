@@ -1,9 +1,5 @@
 # SS02_HW03 - Basic Nginx Web Server
 
-**Môn học:** IT209  
-**Sinh viên:** Trương Hà Cẩm Linh  
-**Mã sinh viên:** PTIT056
-
 ## Nội dung bài làm
 
 Các tệp cần nộp nằm đúng đường dẫn đề bài:
